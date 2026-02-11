@@ -1,6 +1,6 @@
 # M O Martins Soluções LTDA
 
-![Logo da Organização](https://momsys.com.br/resources/clientes/momsys/logo/L.png)
+![Logo da Organização](https://momsys.com.br/resources/clientes/momsys/logo/S.png)
 
 > “Quando bem escrita, a tecnologia deixa de ser ferramenta — torna-se expressão.” — **Carlos E O Martins, CEO**
 

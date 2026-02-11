@@ -75,8 +75,8 @@ Nosso objetivo é **transformar processos internos, melhorar a experiência do c
 
 Entre em contato conosco para saber mais, tirar dúvidas ou iniciar uma parceria:
 
-- **Email:** contato@momartins.com.br  
-- **Website:** [www.momartins.com.br](https://www.momsys.com.br)  
+- **Email:** contato@momsys.com.br  
+- **Website:** [www.momsys.com.br](https://www.momsys.com.br)  
 - **LinkedIn:** [https://www.linkedin.com/company/m-o-martins-solucoes](https://www.linkedin.com/company/MOMartinsSolucoes)  
 - **GitHub:** [https://github.com/momartins](https://github.com/MOMartinsSolucoes)  
 
